@@ -1,3 +1,3 @@
 # conflict-exercise
-Probando conflictos
+Probando conflictos.
 Este es un cambio en la feature branch.
